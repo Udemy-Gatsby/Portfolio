@@ -1,5 +1,7 @@
 # Gatsby-Strapi Portfolio Starter
 
+<a href="https://portfolio-gatsbyjs.netlify.app">Live version</a>
+
 ## Setup Notes
 
 1. Used Hello World Starter (all packages included)
